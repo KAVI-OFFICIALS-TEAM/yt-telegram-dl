@@ -1,7 +1,7 @@
 const { Telegraf } = require('telegraf');
 const axios = require('axios');
 
-const BOT_TOKEN = 'YOUR_BOT_TOKEN';
+const BOT_TOKEN = '7689202878:AAFmAuvelPlcnDm39acAJNfUcfsqJtSvN_U';
 const YT_API_KEY = 'AIzaSyCMeUhsSIzwg33iPi5QFmB6F9Iy2Clp6GY';
 const bot = new Telegraf(BOT_TOKEN);
 
