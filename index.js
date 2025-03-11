@@ -3,7 +3,7 @@ const axios = require('axios');
 const ytdl = require('ytdl-core');
 const fs = require('fs');
 
-const BOT_TOKEN = 'YOUR_BOT_TOKEN';
+const BOT_TOKEN = '7689202878:AAFmAuvelPlcnDm39acAJNfUcfsqJtSvN_U';
 const bot = new Telegraf(BOT_TOKEN);
 
 // Start Command
