@@ -1,0 +1,16 @@
+{
+  "name": "telegram-youtube-downloader",
+  "version": "1.0.0",
+  "description": "A Telegram bot for downloading YouTube videos using inline mode",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.12.2",
+    "axios": "^1.4.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
