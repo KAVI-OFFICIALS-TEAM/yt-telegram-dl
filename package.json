@@ -9,7 +9,7 @@
   "dependencies": {
     "telegraf": "^4.12.2",
     "axios": "^1.4.0",
-    "ytdl-core": "^4.11.0",
+    "ytdl-core": "^4.11.5",
     "fs-extra": "^11.1.0"
   }
 }
